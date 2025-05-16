@@ -1,0 +1,44 @@
+2025-05-16 12:16:13,838 - Mock Version: 5.9
+2025-05-16 12:16:13,842 - Start(bootstrap): chroot init
+2025-05-16 12:16:13,850 - Start(bootstrap): cleaning package manager metadata
+2025-05-16 12:16:13,851 - Finish(bootstrap): cleaning package manager metadata
+2025-05-16 12:16:14,124 - Finish(bootstrap): chroot init
+2025-05-16 12:16:14,126 - Start: chroot init
+2025-05-16 12:16:14,134 - Start: unpacking root cache
+2025-05-16 12:16:15,285 - Finish: unpacking root cache
+2025-05-16 12:16:15,286 - Start: cleaning package manager metadata
+2025-05-16 12:16:15,290 - Finish: cleaning package manager metadata
+2025-05-16 12:16:15,732 - Start: dnf4 update
+2025-05-16 12:16:27,397 - Finish: dnf4 update
+2025-05-16 12:16:27,622 - Finish: chroot init
+2025-05-16 12:16:27,623 - Start: buildsrpm
+2025-05-16 12:16:27,626 - Start: rpmbuild -bs
+2025-05-16 12:16:27,697 - Finish: rpmbuild -bs
+2025-05-16 12:16:27,698 - Finish: buildsrpm
+2025-05-16 12:16:27,699 - Start: clean chroot
+2025-05-16 12:16:29,032 - Finish: clean chroot
+2025-05-16 12:16:29,033 - Finish: run
+2025-05-16 12:16:29,533 - Mock Version: 5.9
+2025-05-16 12:16:29,536 - Start(bootstrap): chroot init
+2025-05-16 12:16:29,544 - Start(bootstrap): cleaning package manager metadata
+2025-05-16 12:16:29,544 - Finish(bootstrap): cleaning package manager metadata
+2025-05-16 12:16:29,708 - Finish(bootstrap): chroot init
+2025-05-16 12:16:29,709 - Start: chroot init
+2025-05-16 12:16:29,716 - Start: unpacking root cache
+2025-05-16 12:16:30,763 - Finish: unpacking root cache
+2025-05-16 12:16:30,764 - Start: cleaning package manager metadata
+2025-05-16 12:16:30,766 - Finish: cleaning package manager metadata
+2025-05-16 12:16:31,006 - Start: dnf4 update
+2025-05-16 12:16:34,441 - Finish: dnf4 update
+2025-05-16 12:16:34,617 - Finish: chroot init
+2025-05-16 12:16:34,618 - Start: build phase for libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:34,618 - Start: build setup for libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:40,196 - Finish: build setup for libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:40,197 - Start: rpmbuild libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:40,198 - Start: Outputting list of installed packages
+2025-05-16 12:16:40,342 - Finish: Outputting list of installed packages
+2025-05-16 12:16:48,218 - Finish: rpmbuild libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:48,221 - Finish: build phase for libcpr-1.10.4-1.el9.rb.src.rpm
+2025-05-16 12:16:48,223 - Start: clean chroot
+2025-05-16 12:16:49,936 - Finish: clean chroot
+2025-05-16 12:16:49,936 - Finish: run
